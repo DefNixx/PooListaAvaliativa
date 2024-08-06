@@ -1,6 +1,6 @@
 /*
  * Atividade avaliativa de Programação orientada a objetos II
- * Nícolas André e Jefferson Eduardo
+ * @authors Nícolas André e Jefferson Eduardo
  */
 
 import java.util.Scanner;
